@@ -13,6 +13,7 @@
 - **Frameworks:** React, Node.js, Flask
 - **DSA:** Solving problems on LeetCode, Codeforces, etc.
 - **Web:** Building projects end-to-end
+- **Video&Poster:** Basic video editing and poster desgin
 
 ## 🎮 Gaming
 I love exploring new games and sometimes stream or blog about my experiences.
